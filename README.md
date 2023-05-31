@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keepdahustle&show_icons=true&locale=en" alt="keepdahustle" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keepdahustle&" alt="keepdahustle" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keepdahustle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
