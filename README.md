@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/keepdahustle/keepdahustle/main/Urabe%20Mikotoo.jpg)
+![logo](https://raw.githubusercontent.com/keepdahustle/keepdahustle/main/readmebox(1).svg)
 <h1 align="center">Hey 👋, I'm Satrio Aji</h1>
 <h3 align="center">UI Designer & 3D Artist</h3>
 
