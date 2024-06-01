@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satrio Aji</h1>
+<h1 align="center">Hi 👋,,</h1>
 <h3 align="center">developer experimentalist.</h3>
 
 - 📫 How to reach me **satrioajidsgn@gmail.com**
