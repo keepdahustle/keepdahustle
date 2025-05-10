@@ -1,4 +1,12 @@
 <h1 align="center">Hi all👋,,</h1>
 <h3 align="center">im.. developer experimentalist, newbie, nevermind.</h3>
 
-- uses: keepdahustle/action-camo-purge@v1
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keepdahustle)](https://github.com/keepdahustle/keepdahustle)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
