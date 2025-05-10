@@ -6,9 +6,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keepdahustle/keepdahustle/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keepdahustle/keepdahustle/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keepdahustle/keepdahustle/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://i.pinimg.com/originals/c8/bf/00/c8bf00c789b91b1e0376504b902e6e2c.gif">
 </picture>
 
 ###
