@@ -4,7 +4,9 @@
 ###
 
 <picture>
+  <div align="center">
   <img alt="pacman contribution graph" src="https://i.pinimg.com/originals/c8/bf/00/c8bf00c789b91b1e0376504b902e6e2c.gif">
+  </div>
 </picture>
 
 ###
